@@ -38,7 +38,7 @@ I'm a Software Engineering sophomore with experience across different levels of 
 
 ---
 
-### Top Languages
+### Stats
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pyankie&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
