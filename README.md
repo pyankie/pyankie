@@ -24,7 +24,7 @@ I'm a Software Engineering sophomore with experience across different levels of 
 ### Projects
 - 🌐 [Blockchain.com Landing Page Clone](https://pyankie.github.io/Blockchain.com-clone-demo/)
 - 🌐 [Product Showcase Single-Page Application](https://wubzembil.netlify.app/)
-- 🌐 [Event Management System]()
+- 🌐 [Event Management System](https://github.com/pyankie/degis)
 - 🔍 Exploring new web technologies and development methodologies
 
 ---
