@@ -15,7 +15,7 @@
 ### About Me
 I'm a Software Engineering sophomore with experience across different levels of development. I work with both low-level systems and modern web applications.
 
-- 🔧 **Tech Stack**: C++, Java, JavaScript/TypeScript, Node.js, React, Linux
+- 🔧 **Tech Stack**: C++, Java, JavaScript/TypeScript, Node.js, Express, Nest.js, React, Linux
 - 🧠 **Learning**: Cloud technologies, web development best practices
 - 💡 **Interests**: Cyber-security, Open-source, clean code, developer tooling
 
