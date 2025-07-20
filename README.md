@@ -31,16 +31,9 @@ I'm a Software Engineering sophomore with experience across different levels of 
 
 ### Tools I Use
 <div>
-  <img src="https://skillicons.dev/icons?i=cpp,java,js,ts,react,nodejs,expressjs,html,css" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,js,ts,react,nodejs,expressjs,nestjs,html,css" />
   <img src="https://skillicons.dev/icons?i=linux,arch,ubuntu,neovim,git,github" />
-  <img src="https://skillicons.dev/icons?i=obsidian,figma,mysql,mongodb" />
-</div>
-
----
-
-### Stats
-<div align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pyankie&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://skillicons.dev/icons?i=obsidian,figma,mysql,postgresql,mongodb" />
 </div>
 
 ---
