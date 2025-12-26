@@ -2,9 +2,8 @@
 <div align="center">
   <h1>👋 Hello, I'm Abel</h1>
   <p>
-    <strong>Software Engineer | Full-Stack Dev | Linux Fan</strong><br>
-    I build clean, efficient applications using modern technologies. I enjoy solving complex problems across the stack, from backend systems to responsive frontends.
-  </p>
+    <strong>Software Engineer | Full-Stack Developer | Linux Fan</strong><br>
+      </p>
 <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat" />
  <img src="https://img.shields.io/badge/-Arch%20Linux-1793D1?logo=arch-linux&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/-Neovim-57A143?logo=neovim&logoColor=white&style=flat" />
@@ -13,33 +12,20 @@
 ---
 
 ### About Me
-I'm a final year Software Engineering student with experience across different levels of development. I work with both low-level systems and modern web applications.
 
-- 🔧 **Tech Stack**: C++, Java, JavaScript/TypeScript, Node.js, Express, Nest.js, React, Linux
-- 🧠 **Learning**: Cloud technologies, web development best practices
-- 💡 **Interests**: Cyber-security, Open-source, clean code, developer tooling
+- 🔧 **Tech Stack**: JavaScript/TypeScript, C++, Java, Node.js, Express, Nest.js, React, Linux
 
----
-
-### Projects
-- 🌐 [Blockchain.com Landing Page Clone](https://pyankie.github.io/Blockchain.com-clone-demo/)
-- 🌐 [Product Showcase Single-Page Application](https://wubzembil.netlify.app/)
-- 🌐 [Degis](https://github.com/pyankie/degis)
-- 🔍 Exploring new web technologies and development methodologies
-
----
 
 ### Tools I Use
 <div>
-  <img src="https://skillicons.dev/icons?i=cpp,java,js,ts,react,nodejs,expressjs,nestjs,html,css" />
-  <img src="https://skillicons.dev/icons?i=linux,arch,ubuntu,neovim,git,github" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,js,ts,react,nodejs,expressjs,nestjs,html,css,prisma" />
+  <img src="https://skillicons.dev/icons?i=linux,arch,ubuntu,neovim,vscode,docker,git,github" />
   <img src="https://skillicons.dev/icons?i=obsidian,figma,mysql,postgresql,mongodb" />
 </div>
 
 ---
 
 ### Contact
-If you'd like to discuss a project or share ideas about development, feel free to reach out.
 
 - 📧 Email: [Gmail](mailto:zpyankie@gmail.com)
 - 𝕏 (Twitter): [X](https://x.com/zpyankie)
