@@ -19,7 +19,7 @@
 ### Tools I Use
 <div>
   <img src="https://skillicons.dev/icons?i=cpp,java,js,ts,react,nodejs,expressjs,nestjs,html,css,prisma" />
-  <img src="https://skillicons.dev/icons?i=linux,arch,ubuntu,neovim,vscode,docker,git,github" />
+  <img src="https://skillicons.dev/icons?i=linux,arch,ubuntu,neovim,vscode,docker,redis,git,github" />
   <img src="https://skillicons.dev/icons?i=obsidian,figma,mysql,postgresql,mongodb" />
 </div>
 
