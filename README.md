@@ -2,7 +2,7 @@
 <div align="center">
   <h1>👋 Hello, I'm Abel</h1>
   <p>
-    <strong>Software Engineer | Full-Stack Developer | Linux Fan</strong><br>
+    <strong>Backend-focused Engineer | Linux Fan</strong><br>
       </p>
 <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat" />
  <img src="https://img.shields.io/badge/-Arch%20Linux-1793D1?logo=arch-linux&logoColor=white&style=flat" />
@@ -11,16 +11,11 @@
 
 ---
 
-### About Me
-
-- 🔧 **Tech Stack**: JavaScript/TypeScript, C++, Java, Node.js, Express, Nest.js, React, Linux
-
-
-### Tools I Use
+### Stack
 <div>
-  <img src="https://skillicons.dev/icons?i=cpp,java,js,ts,react,nodejs,expressjs,nestjs,html,css,prisma" />
-  <img src="https://skillicons.dev/icons?i=linux,arch,ubuntu,neovim,docker,redis,git,github,ai" />
-  <img src="https://skillicons.dev/icons?i=obsidian,figma,mysql,postgresql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nestjs,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=svelte,react,prisma,postgresql,mysql,mongo,redis" />
+  <img src="https://skillicons.dev/icons?i=docker,gcp,git,linux,arch,neovim,ai" />
 </div>
 
 ---
